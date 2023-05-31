@@ -7,8 +7,13 @@
         font-size: 100% !important;
     }
 
-    .banner{
+    /* .banner{
         padding: 3rem 0 8rem 0;
+    } */
+
+
+    .banner-content{
+        padding: 2em 0 2em 0;
     }
 
     .whoWeAre{
@@ -52,9 +57,13 @@
     .common-heading{
         padding-bottom: 0.5rem !important;
     }
-
+/* 
     .banner{
         padding: 4rem 0 10rem 0;
+    } */
+
+    .banner-content{
+        padding: 4em 0;
     }
 
     .whoWeAre{
@@ -72,9 +81,9 @@
         text-align: right !important;
     }
 
-    .banner{
+    /* .banner{
         padding: 5em 0 25em 0;
-    }
+    } */
 
     .whyWeAre{
         padding: 15em 0;
@@ -96,8 +105,12 @@
         font-size: 150%;
     }
 
-    .banner{
+    /* .banner{
         padding: 15rem 0 35rem 0;
+    } */
+
+    .banner-content{
+        padding: 8em 0;
     }
     
     .whyWeAre{
@@ -114,9 +127,9 @@
         font-size: 175% !important;
     }
 
-    .banner{
+    /* .banner{
         padding: 10em 0 30em 0;
-    }
+    } */
 
 
     .whyWeAre{

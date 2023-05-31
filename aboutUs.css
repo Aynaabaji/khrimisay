@@ -128,13 +128,34 @@ h1,h2,h3,h4,h5,h6{
 
 
 /*  ============== banner css starts ============== */
-.banner{
+/* .banner{
     background: url('./image/banner.png') no-repeat;
     background-position: center;
     background-size: cover;
     padding: 6rem 0 20rem 0;
-    /* background-color: #F3F3F3; */
+} */
+.banner_img{
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
 }
+
+.banner_img>img{
+    width: 100% !important;
+}
+
+.banner_img>.container{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.banner-content{
+    padding: 5em 0 5em 0;
+}
+
 
 .banner-right{
     display: flex;
